@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "また　あした",
+  "base_artist": "Madoka Kaname (CV:Aoi Yuki)",
+  "createdAt": "2025-12-01T13:12:43.285621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "また あした",
+      "artist": "鹿目まどか ( 悠木碧)",
+      "has_synced": true,
+      "path": "select/01_また_あした_鹿目まどか_(_悠木碧).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "また あした",
+      "artist": "鹿目まどか (CV:悠木碧)",
+      "has_synced": true,
+      "path": "select/02_また_あした_鹿目まどか_(CV_悠木碧).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "また あした",
+      "artist": "鹿目まどか",
+      "has_synced": true,
+      "path": "select/03_また_あした_鹿目まどか.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "また あした",
+      "artist": "悠木碧",
+      "has_synced": true,
+      "path": "select/04_また_あした_悠木碧.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "また あした",
+      "artist": "魔法少女まどか☆マギカ",
+      "has_synced": true,
+      "path": "select/05_また_あした_魔法少女まどか☆マギカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また明日...",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_また明日..._JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "また明日...",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_02_また明日..._JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "また明日",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_03_また明日_JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "また明日",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_04_また明日_JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "また明日...",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_05_また明日..._JUJU.txt"
+    }
+  ]
+}
